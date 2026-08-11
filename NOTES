@@ -1,1 +1,8 @@
-https://raw.githubusercontent.com/retzgg/email-assets/2f2c154e544db64b474cd8ab50057b6456e5ff49/emailheader.png
+If your GitHub file is something like: https://github.com/username/repository/blob/main/images/header.png
+Change the URL from: github.com
+To: raw.githubusercontent.com
+and remove /blob/.
+
+So it becomes: https://raw.githubusercontent.com/username/repository/main/images/header.png
+
+
